@@ -1,1 +1,2 @@
-# LGMVIP-Java-Task-Number-2
+# TicTacToeCLI
+A simple TicTacToe game based on the CLI.
